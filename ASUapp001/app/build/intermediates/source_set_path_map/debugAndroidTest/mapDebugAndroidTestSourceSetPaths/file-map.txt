@@ -1,0 +1,5 @@
+com.example.asuapp001.test.app-androidTest-0 C:\Android progs new\ASUapp001\app\build\generated\res\resValues\androidTest\debug
+com.example.asuapp001.test.app-mergeDebugAndroidTestResources-1 C:\Android progs new\ASUapp001\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.asuapp001.test.app-mergeDebugAndroidTestResources-2 C:\Android progs new\ASUapp001\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.asuapp001.test.app-debugAndroidTest-3 C:\Android progs new\ASUapp001\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.asuapp001.test.app-core-1.6.1-4 C:\Users\Никита\.gradle\caches\transforms-4\e6abdef18a420c05ef46e716750def8d\transformed\core-1.6.1\res

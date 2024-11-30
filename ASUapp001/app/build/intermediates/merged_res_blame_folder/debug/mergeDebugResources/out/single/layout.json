@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.asuapp001.app-mergeDebugResources-3:/layout/fragment_slideshow.xml",
+        "source": "com.example.asuapp001.app-main-6:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Никита\\.gradle\\daemon\\8.7\\com.example.asuapp001.app-main-6:\\layout\\fragment_home.xml"
+    }
+]
